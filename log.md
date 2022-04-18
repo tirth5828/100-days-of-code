@@ -7,3 +7,12 @@
 **Thoughts:**  Will be doing 3-5 DSA Questions every day. In development try to explore different technologies, but the main focus will be on Django and Machine Learning.
 
 **Link to work:** NA
+
+### Day 1: April 18, 2022 
+
+**Today's Progress**: DSA (Arrays , Linked List) and Djando
+
+**Thoughts:** Dont mess with JAVA Garbage Collector. In Django check spellings.
+
+**Link to work:** [Set Matrix Zeroes](https://leetcode.com/submissions/detail/682694272/),
+[Add Two Numbers](https://leetcode.com/submissions/detail/682659928/)
