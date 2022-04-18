@@ -1,5 +1,9 @@
 # I've joined the #100DaysOfCode Challenge
 
+## My Plan
+* DSA - Will follow [link](https://takeuforward.org/interviews/strivers-sde-sheet-top-coding-interview-problems/) for first 30 days , will see what to do after.
+* Development - Django and Machine Learning as main focous but also exploring other tech for fun.
+
 ## Contents
 
 * [Rules](rules.md)
