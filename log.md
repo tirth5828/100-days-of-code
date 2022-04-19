@@ -16,3 +16,12 @@
 
 **Link to work:** [Set Matrix Zeroes](https://leetcode.com/submissions/detail/682694272/),
 [Add Two Numbers](https://leetcode.com/submissions/detail/682659928/)
+
+
+### Day 2: April 19, 2022 
+
+**Today's Progress**: Python and DSA
+
+**Thoughts:** Python Turtle codes and DSA
+
+**Link to work:** 
